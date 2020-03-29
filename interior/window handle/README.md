@@ -6,5 +6,5 @@ Wzmocnione miejsca narażone na pęknięcia
 
 ![window handle](126p-window-handle-assembled1.PNG)
 ![window handle](126p-window-handle-assembled2.PNG)
-![window handle](126p-window-handle.PNG)
-![window handle](126p-window-handle1.PNG)
+![window handle](window-handle.PNG)
+![window handle](window-handle1.PNG)
