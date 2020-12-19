@@ -1,1 +1,1 @@
-
+Here are parts that are mounted outside of the car
